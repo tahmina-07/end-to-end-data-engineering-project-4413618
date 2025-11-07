@@ -1,5 +1,5 @@
 # End-to-End Data Engineering Project
-This is the repository for the LinkedIn Learning course End-to-End Data Engineering Project. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course End-to-End Data Engineering Project. 
 
 ![End-to-End Data Engineering Project][lil-thumbnail-url] 
 
@@ -34,9 +34,6 @@ Ensure you have Python 3 installed. If not, you can download and install it from
     - `pip install -e ".[dev]"`
 
 
-### Instructor
-
-Thalia Barrera 
                             
 
 
